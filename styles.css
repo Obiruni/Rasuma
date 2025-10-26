@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+   position: relative;
+   background-color: rgb(199, 221, 207);
+}
+.heads{
+    width: 100%;
+     height: 70px;
+     background-color: rgb(158, 221, 180);
+}
+header{
+     position: fixed;
+     top: 0;
+     width: 100%;
+     height: 70px;
+     background-color: rgb(112, 158, 128);
+}
+
+li{
+    list-style: none;
+}
+
+.maun{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.tex-b{
+    font-family: 'Tahoma', sans-serif;
+    color: rgb(57, 73, 63);
+}
+
+
+.container{
+/* width: 1280px; */
+margin: auto;
+}
+
+.navber{
+ width: 95%;
+ margin: auto;
+ min-height: 70px;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+}
+
+.nav-branding{
+    color: #ffffff;
+    font-size: 2rem;
+    text-decoration: none;
+} 
+.Profile-top{
+    height:  300px;
+    margin: 0 auto ;
+    margin-top: -30px;
+    background-color: #ffffff;
+}
+.Profile-top-in{
+    margin-top: -200px ;
+    left: 0;
+    width: 350px;
+    height: 400px;
+    mix-blend-mode: normal;
+}
+
+img.Profile-img{
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 100%;
+    margin-top: 10% ;
+    width: 50%;
+    height: 45%; 
+    mix-blend-mode: normal;
+}
+ .name{
+    color: rgb(103, 136, 115);
+    font-family: 'Tahoma', sans-serif;
+    margin-top: 50px ;
+    margin-left:  auto;
+      text-align: center;
+
+    
+ } 
+ .name2{
+    color: rgb(57, 73, 63);
+    font-family: 'Tahoma', sans-serif;
+     margin-top: 40px ;
+    margin-left:  auto;
+      text-align: center;
+ }   
+
+ .record{
+    color: rgb(57, 73, 63);
+    font-family: 'Tahoma', sans-serif;
+     margin-top: 40px ;
+    margin-left:  auto;
+      text-align: center;
+ } 
+
+.Profiledata{
+    border: 10px solid rgb(127, 172, 142);
+
+    max-width: 1200px ;
+    margin: 0 auto;
+    margin-top: -10px;
+    background-color: rgb(127, 172, 142);    
+ }  
+.tex{
+  color: #ffffff;
+  font-family: 'Tahoma', sans-serif;
+} 
+p{
+  color: #ffffff;
+  font-family: 'Tahoma', sans-serif;
+  font-size: 1.2rem;
+} 
+
+img.imgs{
+   display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    width: 700px; 
+}
+
+.Contactinformation{
+       margin-top: 20px;
+}
+
+ /* position: absolute; */
+     /* opacity: 0; */
