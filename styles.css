@@ -20,7 +20,7 @@ header{
      background-color: rgb(112, 158, 128);
 }
 
-li{
+.nav-branding,.nav-link{
     list-style: none;
 }
 
@@ -110,8 +110,7 @@ img.Profile-img{
  } 
 
 .Profiledata{
-    border: 10px solid rgb(127, 172, 142);
-
+    border: 20px solid rgb(127, 172, 142);
     max-width: 1200px ;
     margin: 0 auto;
     margin-top: -10px;
@@ -137,6 +136,6 @@ img.imgs{
 .Contactinformation{
        margin-top: 20px;
 }
-
+ 
  /* position: absolute; */
      /* opacity: 0; */
